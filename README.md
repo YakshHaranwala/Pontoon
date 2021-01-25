@@ -9,10 +9,8 @@
 	4. Run the code:
 		-> java Driver
 
-(b) How to run directly:
-	 1. Double click on "Pontoon.jar" file and it should run the application.
-	 
-(c) Description:
+
+(b) Description:
 	-> The game is a simplistic version of the Pontoon game. The objective of the game is 
 	   to keep the total score below 22 and force the other player to go over it by 
 	   out-smarting them. 
